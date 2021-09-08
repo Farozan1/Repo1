@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 8AA0-9088
+
+ Directory of C:\Users\Admin\Desktop\GitPractice
+
+08-09-2021  15:10    <DIR>          .
+08-09-2021  15:10    <DIR>          ..
+08-09-2021  15:10                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  48,615,305,216 bytes free
